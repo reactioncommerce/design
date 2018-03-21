@@ -4,7 +4,7 @@ Board for design issues
 # design issue types
 - UI/ux bugs
 - Features (which will be epics)
-- Graph ql ‘slices’ (link to slice roadmap)
+- Graph ql ‘slices’
 - Continued Style guide definitions
 
 # How to prioritize

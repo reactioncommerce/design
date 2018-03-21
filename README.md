@@ -2,10 +2,10 @@
 Board for design issues
 
 # design issue types
-- UI/ux bugs
+- UI/UX bugs
 - Features (which will be epics)
 - Graph ql ‘slices’
-- Continued Style guide definitions
+- Continued style guide definitions
 
 # How to prioritize
 - Does it delight the customer?

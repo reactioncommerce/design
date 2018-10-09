@@ -3,9 +3,9 @@ Board for design issues
 
 # design issue types
 - UI/UX bugs
-- Features (which will be epics)
-- Graph ql ‘slices’
-- Continued style guide definitions
+- Features
+- Reaction Design System component design documentation
+- Operator admin flows
 
 # How to prioritize
 - Does it delight the customer?
